@@ -53,15 +53,17 @@
 </div><br>
 
  <br/>
+  <br/>
+ <br/>
+
+## 📒 Portfolio
+
+https://docs.google.com/presentation/d/e/2PACX-1vSBgD9c6gmIzyPzc0B2qDL8CEtRP6s8SQA7WpJ3v29upA9VNWJILFGTvh8SY_2CTafpcprnHYoTV7HV/pub?start=true&loop=false&delayms=60000
+
+ <br/>
  <br/>
   <br/>
 
- 
- <img src="https://github-readme-stats.vercel.app/api?username=Sungjinchosj&show_icons=true&theme=gotham">
-
- <br/>
- <br/>
-  <br/>
   
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
