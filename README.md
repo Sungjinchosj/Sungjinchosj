@@ -64,6 +64,11 @@ https://docs.google.com/presentation/d/e/2PACX-1vSBgD9c6gmIzyPzc0B2qDL8CEtRP6s8S
  <br/>
   <br/>
 
+  #### 파이널 프로젝트_MoneyMate
+<a href="https://github.com/KH-FInal-Jo/moneymate">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+</a>
+
   
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
