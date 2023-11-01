@@ -69,6 +69,28 @@ https://docs.google.com/presentation/d/e/2PACX-1vSBgD9c6gmIzyPzc0B2qDL8CEtRP6s8S
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </a>
 
+ <br/>
+ <br/>
+  <br/>
+
+  #### 세미 프로젝트_Mixology Connect
+<a href="https://github.com/MixologyConnect/SemiProject-MixologyConnect">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+</a>
+
+ <br/>
+ <br/>
+  <br/>
+
+  #### Programmers
+<a href="https://github.com/Sungjinchosj/Programmers">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+</a>
+
+
+   <br/>
+ <br/>
+  <br/>
   
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
