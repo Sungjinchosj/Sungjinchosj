@@ -61,6 +61,8 @@
 
 ## 📒 Portfolio
 
+####  :wave: 두번의 팀 프로젝트를 정리한 PPT 슬라이드입니다.
+
 https://docs.google.com/presentation/d/e/2PACX-1vSBgD9c6gmIzyPzc0B2qDL8CEtRP6s8SQA7WpJ3v29upA9VNWJILFGTvh8SY_2CTafpcprnHYoTV7HV/pub?start=true&loop=false&delayms=60000
 
  <br/>
@@ -86,6 +88,9 @@ https://docs.google.com/presentation/d/e/2PACX-1vSBgD9c6gmIzyPzc0B2qDL8CEtRP6s8S
   <br/>
 
   #### Programmers
+
+  ####  :wave: 프로그래머스에서 풀었던 문제들을 기록하는 공간입니다.
+  
 <a href="https://github.com/Sungjinchosj/Programmers">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </a>
