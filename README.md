@@ -44,6 +44,8 @@
 
 ## 💻 Study 💻
 <div style="display:flex; flex-direction:row;">
+
+####  :wave: 공부했던것들을 기록하는 공간입니다.
    
 <a href="https://sungjin-cho.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
