@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=SUNGJIN&color=85bdde)
+
 
 ####  :wave: 안녕하세요 백엔드 신입개발자 조성진입니다 !
 
