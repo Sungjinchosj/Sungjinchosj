@@ -52,7 +52,7 @@
 </a>
   
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sungjin-cho&theme=default)](https://easyhomputer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sungjin-cho&theme=default)](https://sungjin-cho.tistory.com)
 </div><br>
 
  <br/>
